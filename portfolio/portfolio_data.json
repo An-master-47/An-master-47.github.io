@@ -1,0 +1,804 @@
+{
+  "categories": [
+    {
+      "code": "3d",
+      "count": 43
+    },
+    {
+      "code": "ai",
+      "count": 20
+    },
+    {
+      "code": "ppt",
+      "count": 15
+    }
+  ],
+  "items": {
+    "3d": [
+      {
+        "seq": "01",
+        "src": "2-1F上2F楼梯1.jpg",
+        "thumb": "anyb-3d-01.webp",
+        "full": "anyb-3d-01.jpg",
+        "orig_w": 1000,
+        "orig_h": 600,
+        "thumb_kb": 47,
+        "full_kb": 96
+      },
+      {
+        "seq": "02",
+        "src": "2-1F上2F楼梯2.jpg",
+        "thumb": "anyb-3d-02.webp",
+        "full": "anyb-3d-02.jpg",
+        "orig_w": 1000,
+        "orig_h": 600,
+        "thumb_kb": 44,
+        "full_kb": 80
+      },
+      {
+        "seq": "03",
+        "src": "6-第三部分CAVE入口.jpg",
+        "thumb": "anyb-3d-03.webp",
+        "full": "anyb-3d-03.jpg",
+        "orig_w": 1000,
+        "orig_h": 600,
+        "thumb_kb": 26,
+        "full_kb": 66
+      },
+      {
+        "seq": "04",
+        "src": "6-第三部分小型魔幻剧场1.jpg",
+        "thumb": "anyb-3d-04.webp",
+        "full": "anyb-3d-04.jpg",
+        "orig_w": 1000,
+        "orig_h": 600,
+        "thumb_kb": 35,
+        "full_kb": 74
+      },
+      {
+        "seq": "05",
+        "src": "CA2-1.jpg",
+        "thumb": "anyb-3d-05.webp",
+        "full": "anyb-3d-05.jpg",
+        "orig_w": 2000,
+        "orig_h": 1143,
+        "thumb_kb": 91,
+        "full_kb": 411
+      },
+      {
+        "seq": "06",
+        "src": "CA3-3.jpg",
+        "thumb": "anyb-3d-06.webp",
+        "full": "anyb-3d-06.jpg",
+        "orig_w": 2000,
+        "orig_h": 1143,
+        "thumb_kb": 36,
+        "full_kb": 187
+      },
+      {
+        "seq": "07",
+        "src": "N2.jpg",
+        "thumb": "anyb-3d-07.webp",
+        "full": "anyb-3d-07.jpg",
+        "orig_w": 1000,
+        "orig_h": 600,
+        "thumb_kb": 46,
+        "full_kb": 96
+      },
+      {
+        "seq": "08",
+        "src": "N4.jpg",
+        "thumb": "anyb-3d-08.webp",
+        "full": "anyb-3d-08.jpg",
+        "orig_w": 1000,
+        "orig_h": 600,
+        "thumb_kb": 63,
+        "full_kb": 114
+      },
+      {
+        "seq": "09",
+        "src": "N6.jpg",
+        "thumb": "anyb-3d-09.webp",
+        "full": "anyb-3d-09.jpg",
+        "orig_w": 1000,
+        "orig_h": 600,
+        "thumb_kb": 49,
+        "full_kb": 93
+      },
+      {
+        "seq": "10",
+        "src": "N7.jpg",
+        "thumb": "anyb-3d-10.webp",
+        "full": "anyb-3d-10.jpg",
+        "orig_w": 1000,
+        "orig_h": 600,
+        "thumb_kb": 45,
+        "full_kb": 92
+      },
+      {
+        "seq": "11",
+        "src": "VFR1.jpg",
+        "thumb": "anyb-3d-11.webp",
+        "full": "anyb-3d-11.jpg",
+        "orig_w": 1000,
+        "orig_h": 600,
+        "thumb_kb": 34,
+        "full_kb": 80
+      },
+      {
+        "seq": "12",
+        "src": "VFR2.jpg",
+        "thumb": "anyb-3d-12.webp",
+        "full": "anyb-3d-12.jpg",
+        "orig_w": 1000,
+        "orig_h": 600,
+        "thumb_kb": 47,
+        "full_kb": 100
+      },
+      {
+        "seq": "13",
+        "src": "VFR3+.jpg",
+        "thumb": "anyb-3d-13.webp",
+        "full": "anyb-3d-13.jpg",
+        "orig_w": 1000,
+        "orig_h": 600,
+        "thumb_kb": 42,
+        "full_kb": 89
+      },
+      {
+        "seq": "14",
+        "src": "VFR4.jpg",
+        "thumb": "anyb-3d-14.webp",
+        "full": "anyb-3d-14.jpg",
+        "orig_w": 1000,
+        "orig_h": 600,
+        "thumb_kb": 41,
+        "full_kb": 95
+      },
+      {
+        "seq": "15",
+        "src": "a1.jpg",
+        "thumb": "anyb-3d-15.webp",
+        "full": "anyb-3d-15.jpg",
+        "orig_w": 2000,
+        "orig_h": 1142,
+        "thumb_kb": 71,
+        "full_kb": 372
+      },
+      {
+        "seq": "16",
+        "src": "a2.jpg",
+        "thumb": "anyb-3d-16.webp",
+        "full": "anyb-3d-16.jpg",
+        "orig_w": 3000,
+        "orig_h": 1623,
+        "thumb_kb": 77,
+        "full_kb": 381
+      },
+      {
+        "seq": "17",
+        "src": "b1.jpg",
+        "thumb": "anyb-3d-17.webp",
+        "full": "anyb-3d-17.jpg",
+        "orig_w": 1500,
+        "orig_h": 811,
+        "thumb_kb": 41,
+        "full_kb": 151
+      },
+      {
+        "seq": "18",
+        "src": "b2.jpg",
+        "thumb": "anyb-3d-18.webp",
+        "full": "anyb-3d-18.jpg",
+        "orig_w": 1500,
+        "orig_h": 1068,
+        "thumb_kb": 93,
+        "full_kb": 354
+      },
+      {
+        "seq": "19",
+        "src": "b3.jpg",
+        "thumb": "anyb-3d-19.webp",
+        "full": "anyb-3d-19.jpg",
+        "orig_w": 1500,
+        "orig_h": 1068,
+        "thumb_kb": 36,
+        "full_kb": 166
+      },
+      {
+        "seq": "20",
+        "src": "b4.jpg",
+        "thumb": "anyb-3d-20.webp",
+        "full": "anyb-3d-20.jpg",
+        "orig_w": 1500,
+        "orig_h": 1068,
+        "thumb_kb": 34,
+        "full_kb": 169
+      },
+      {
+        "seq": "21",
+        "src": "b5.jpg",
+        "thumb": "anyb-3d-21.webp",
+        "full": "anyb-3d-21.jpg",
+        "orig_w": 1500,
+        "orig_h": 1068,
+        "thumb_kb": 36,
+        "full_kb": 189
+      },
+      {
+        "seq": "22",
+        "src": "b6.jpg",
+        "thumb": "anyb-3d-22.webp",
+        "full": "anyb-3d-22.jpg",
+        "orig_w": 1500,
+        "orig_h": 1026,
+        "thumb_kb": 41,
+        "full_kb": 176
+      },
+      {
+        "seq": "23",
+        "src": "c2.jpg",
+        "thumb": "anyb-3d-23.webp",
+        "full": "anyb-3d-23.jpg",
+        "orig_w": 2500,
+        "orig_h": 1744,
+        "thumb_kb": 58,
+        "full_kb": 359
+      },
+      {
+        "seq": "24",
+        "src": "c3.jpg",
+        "thumb": "anyb-3d-24.webp",
+        "full": "anyb-3d-24.jpg",
+        "orig_w": 2500,
+        "orig_h": 1574,
+        "thumb_kb": 68,
+        "full_kb": 399
+      },
+      {
+        "seq": "25",
+        "src": "d1.jpg",
+        "thumb": "anyb-3d-25.webp",
+        "full": "anyb-3d-25.jpg",
+        "orig_w": 2000,
+        "orig_h": 1200,
+        "thumb_kb": 66,
+        "full_kb": 339
+      },
+      {
+        "seq": "26",
+        "src": "d2.jpg",
+        "thumb": "anyb-3d-26.webp",
+        "full": "anyb-3d-26.jpg",
+        "orig_w": 1200,
+        "orig_h": 720,
+        "thumb_kb": 65,
+        "full_kb": 148
+      },
+      {
+        "seq": "27",
+        "src": "d3.jpg",
+        "thumb": "anyb-3d-27.webp",
+        "full": "anyb-3d-27.jpg",
+        "orig_w": 1200,
+        "orig_h": 720,
+        "thumb_kb": 60,
+        "full_kb": 130
+      },
+      {
+        "seq": "28",
+        "src": "d4.jpg",
+        "thumb": "anyb-3d-28.webp",
+        "full": "anyb-3d-28.jpg",
+        "orig_w": 1200,
+        "orig_h": 720,
+        "thumb_kb": 44,
+        "full_kb": 114
+      },
+      {
+        "seq": "29",
+        "src": "d5.jpg",
+        "thumb": "anyb-3d-29.webp",
+        "full": "anyb-3d-29.jpg",
+        "orig_w": 2000,
+        "orig_h": 1200,
+        "thumb_kb": 35,
+        "full_kb": 177
+      },
+      {
+        "seq": "30",
+        "src": "d6.jpg",
+        "thumb": "anyb-3d-30.webp",
+        "full": "anyb-3d-30.jpg",
+        "orig_w": 800,
+        "orig_h": 480,
+        "thumb_kb": 31,
+        "full_kb": 43
+      },
+      {
+        "seq": "31",
+        "src": "e1.jpg",
+        "thumb": "anyb-3d-31.webp",
+        "full": "anyb-3d-31.jpg",
+        "orig_w": 3000,
+        "orig_h": 1622,
+        "thumb_kb": 80,
+        "full_kb": 271
+      },
+      {
+        "seq": "32",
+        "src": "e2.jpg",
+        "thumb": "anyb-3d-32.webp",
+        "full": "anyb-3d-32.jpg",
+        "orig_w": 3000,
+        "orig_h": 1622,
+        "thumb_kb": 87,
+        "full_kb": 296
+      },
+      {
+        "seq": "33",
+        "src": "f1.png",
+        "thumb": "anyb-3d-33.webp",
+        "full": "anyb-3d-33.jpg",
+        "orig_w": 2000,
+        "orig_h": 1200,
+        "thumb_kb": 104,
+        "full_kb": 545
+      },
+      {
+        "seq": "34",
+        "src": "f2.png",
+        "thumb": "anyb-3d-34.webp",
+        "full": "anyb-3d-34.jpg",
+        "orig_w": 2000,
+        "orig_h": 1200,
+        "thumb_kb": 109,
+        "full_kb": 527
+      },
+      {
+        "seq": "35",
+        "src": "f3.png",
+        "thumb": "anyb-3d-35.webp",
+        "full": "anyb-3d-35.jpg",
+        "orig_w": 2000,
+        "orig_h": 1374,
+        "thumb_kb": 87,
+        "full_kb": 511
+      },
+      {
+        "seq": "36",
+        "src": "f4.png",
+        "thumb": "anyb-3d-36.webp",
+        "full": "anyb-3d-36.jpg",
+        "orig_w": 1500,
+        "orig_h": 1095,
+        "thumb_kb": 109,
+        "full_kb": 409
+      },
+      {
+        "seq": "37",
+        "src": "挂云山六壮士.jpg",
+        "thumb": "anyb-3d-37.webp",
+        "full": "anyb-3d-37.jpg",
+        "orig_w": 1000,
+        "orig_h": 600,
+        "thumb_kb": 35,
+        "full_kb": 82
+      },
+      {
+        "seq": "38",
+        "src": "第2幕1部分.jpg",
+        "thumb": "anyb-3d-38.webp",
+        "full": "anyb-3d-38.jpg",
+        "orig_w": 1000,
+        "orig_h": 571,
+        "thumb_kb": 90,
+        "full_kb": 145
+      },
+      {
+        "seq": "39",
+        "src": "第3幕3部分1.jpg",
+        "thumb": "anyb-3d-39.webp",
+        "full": "anyb-3d-39.jpg",
+        "orig_w": 1000,
+        "orig_h": 571,
+        "thumb_kb": 29,
+        "full_kb": 62
+      },
+      {
+        "seq": "40",
+        "src": "第三部分第一单元.jpg",
+        "thumb": "anyb-3d-40.webp",
+        "full": "anyb-3d-40.jpg",
+        "orig_w": 1000,
+        "orig_h": 600,
+        "thumb_kb": 37,
+        "full_kb": 82
+      },
+      {
+        "seq": "41",
+        "src": "第三部分第一单元1.jpg",
+        "thumb": "anyb-3d-41.webp",
+        "full": "anyb-3d-41.jpg",
+        "orig_w": 1000,
+        "orig_h": 600,
+        "thumb_kb": 45,
+        "full_kb": 89
+      },
+      {
+        "seq": "42",
+        "src": "角度6.png",
+        "thumb": "anyb-3d-42.webp",
+        "full": "anyb-3d-42.jpg",
+        "orig_w": 1000,
+        "orig_h": 541,
+        "thumb_kb": 24,
+        "full_kb": 59
+      },
+      {
+        "seq": "43",
+        "src": "角度7.png",
+        "thumb": "anyb-3d-43.webp",
+        "full": "anyb-3d-43.jpg",
+        "orig_w": 1000,
+        "orig_h": 541,
+        "thumb_kb": 22,
+        "full_kb": 56
+      }
+    ],
+    "ai": [
+      {
+        "seq": "01",
+        "src": "01.png",
+        "thumb": "anyb-ai-01.webp",
+        "full": "anyb-ai-01.jpg",
+        "orig_w": 2250,
+        "orig_h": 1285,
+        "thumb_kb": 2,
+        "full_kb": 65
+      },
+      {
+        "seq": "02",
+        "src": "02.png",
+        "thumb": "anyb-ai-02.webp",
+        "full": "anyb-ai-02.jpg",
+        "orig_w": 5120,
+        "orig_h": 2880,
+        "thumb_kb": 59,
+        "full_kb": 295
+      },
+      {
+        "seq": "03",
+        "src": "03.png",
+        "thumb": "anyb-ai-03.webp",
+        "full": "anyb-ai-03.jpg",
+        "orig_w": 2250,
+        "orig_h": 1285,
+        "thumb_kb": 2,
+        "full_kb": 72
+      },
+      {
+        "seq": "04",
+        "src": "04.png",
+        "thumb": "anyb-ai-04.webp",
+        "full": "anyb-ai-04.jpg",
+        "orig_w": 5120,
+        "orig_h": 2880,
+        "thumb_kb": 81,
+        "full_kb": 408
+      },
+      {
+        "seq": "05",
+        "src": "05.png",
+        "thumb": "anyb-ai-05.webp",
+        "full": "anyb-ai-05.jpg",
+        "orig_w": 2250,
+        "orig_h": 1285,
+        "thumb_kb": 3,
+        "full_kb": 77
+      },
+      {
+        "seq": "06",
+        "src": "06.png",
+        "thumb": "anyb-ai-06.webp",
+        "full": "anyb-ai-06.jpg",
+        "orig_w": 5120,
+        "orig_h": 2880,
+        "thumb_kb": 68,
+        "full_kb": 324
+      },
+      {
+        "seq": "07",
+        "src": "07.png",
+        "thumb": "anyb-ai-07.webp",
+        "full": "anyb-ai-07.jpg",
+        "orig_w": 2250,
+        "orig_h": 1285,
+        "thumb_kb": 3,
+        "full_kb": 91
+      },
+      {
+        "seq": "08",
+        "src": "08.png",
+        "thumb": "anyb-ai-08.webp",
+        "full": "anyb-ai-08.jpg",
+        "orig_w": 5120,
+        "orig_h": 2880,
+        "thumb_kb": 82,
+        "full_kb": 439
+      },
+      {
+        "seq": "09",
+        "src": "09.png",
+        "thumb": "anyb-ai-09.webp",
+        "full": "anyb-ai-09.jpg",
+        "orig_w": 2250,
+        "orig_h": 1285,
+        "thumb_kb": 2,
+        "full_kb": 55
+      },
+      {
+        "seq": "10",
+        "src": "10.png",
+        "thumb": "anyb-ai-10.webp",
+        "full": "anyb-ai-10.jpg",
+        "orig_w": 5120,
+        "orig_h": 2880,
+        "thumb_kb": 67,
+        "full_kb": 375
+      },
+      {
+        "seq": "11",
+        "src": "11.png",
+        "thumb": "anyb-ai-11.webp",
+        "full": "anyb-ai-11.jpg",
+        "orig_w": 2250,
+        "orig_h": 1285,
+        "thumb_kb": 3,
+        "full_kb": 77
+      },
+      {
+        "seq": "12",
+        "src": "12.png",
+        "thumb": "anyb-ai-12.webp",
+        "full": "anyb-ai-12.jpg",
+        "orig_w": 5120,
+        "orig_h": 2880,
+        "thumb_kb": 69,
+        "full_kb": 352
+      },
+      {
+        "seq": "13",
+        "src": "13.png",
+        "thumb": "anyb-ai-13.webp",
+        "full": "anyb-ai-13.jpg",
+        "orig_w": 2250,
+        "orig_h": 1285,
+        "thumb_kb": 4,
+        "full_kb": 86
+      },
+      {
+        "seq": "14",
+        "src": "14.png",
+        "thumb": "anyb-ai-14.webp",
+        "full": "anyb-ai-14.jpg",
+        "orig_w": 5120,
+        "orig_h": 2880,
+        "thumb_kb": 80,
+        "full_kb": 407
+      },
+      {
+        "seq": "15",
+        "src": "15.png",
+        "thumb": "anyb-ai-15.webp",
+        "full": "anyb-ai-15.jpg",
+        "orig_w": 2250,
+        "orig_h": 1285,
+        "thumb_kb": 5,
+        "full_kb": 87
+      },
+      {
+        "seq": "16",
+        "src": "16.png",
+        "thumb": "anyb-ai-16.webp",
+        "full": "anyb-ai-16.jpg",
+        "orig_w": 5120,
+        "orig_h": 2880,
+        "thumb_kb": 93,
+        "full_kb": 430
+      },
+      {
+        "seq": "17",
+        "src": "17.jpg",
+        "thumb": "anyb-ai-17.webp",
+        "full": "anyb-ai-17.jpg",
+        "orig_w": 1024,
+        "orig_h": 584,
+        "thumb_kb": 3,
+        "full_kb": 17
+      },
+      {
+        "seq": "18",
+        "src": "18.png",
+        "thumb": "anyb-ai-18.webp",
+        "full": "anyb-ai-18.jpg",
+        "orig_w": 5120,
+        "orig_h": 2880,
+        "thumb_kb": 55,
+        "full_kb": 312
+      },
+      {
+        "seq": "19",
+        "src": "19.png",
+        "thumb": "anyb-ai-19.webp",
+        "full": "anyb-ai-19.jpg",
+        "orig_w": 2250,
+        "orig_h": 1285,
+        "thumb_kb": 4,
+        "full_kb": 72
+      },
+      {
+        "seq": "20",
+        "src": "20.png",
+        "thumb": "anyb-ai-20.webp",
+        "full": "anyb-ai-20.jpg",
+        "orig_w": 5120,
+        "orig_h": 2880,
+        "thumb_kb": 91,
+        "full_kb": 412
+      }
+    ],
+    "ppt": [
+      {
+        "seq": "01",
+        "src": "东台黄海森林公园研学基地_01.png",
+        "thumb": "anyb-ppt-01.webp",
+        "full": "anyb-ppt-01.jpg",
+        "orig_w": 5120,
+        "orig_h": 2880,
+        "thumb_kb": 30,
+        "full_kb": 197
+      },
+      {
+        "seq": "02",
+        "src": "东台黄海森林公园研学基地_02.png",
+        "thumb": "anyb-ppt-02.webp",
+        "full": "anyb-ppt-02.jpg",
+        "orig_w": 5120,
+        "orig_h": 2880,
+        "thumb_kb": 25,
+        "full_kb": 169
+      },
+      {
+        "seq": "03",
+        "src": "东台黄海森林公园研学基地_03.png",
+        "thumb": "anyb-ppt-03.webp",
+        "full": "anyb-ppt-03.jpg",
+        "orig_w": 5120,
+        "orig_h": 2880,
+        "thumb_kb": 45,
+        "full_kb": 229
+      },
+      {
+        "seq": "04",
+        "src": "东台黄海森林公园研学基地_04.png",
+        "thumb": "anyb-ppt-04.webp",
+        "full": "anyb-ppt-04.jpg",
+        "orig_w": 5120,
+        "orig_h": 2880,
+        "thumb_kb": 67,
+        "full_kb": 302
+      },
+      {
+        "seq": "05",
+        "src": "东台黄海森林公园研学基地_05.png",
+        "thumb": "anyb-ppt-05.webp",
+        "full": "anyb-ppt-05.jpg",
+        "orig_w": 5120,
+        "orig_h": 2880,
+        "thumb_kb": 52,
+        "full_kb": 266
+      },
+      {
+        "seq": "06",
+        "src": "东台黄海森林公园研学基地_06.png",
+        "thumb": "anyb-ppt-06.webp",
+        "full": "anyb-ppt-06.jpg",
+        "orig_w": 5120,
+        "orig_h": 2880,
+        "thumb_kb": 67,
+        "full_kb": 311
+      },
+      {
+        "seq": "07",
+        "src": "东台黄海森林公园研学基地_07.png",
+        "thumb": "anyb-ppt-07.webp",
+        "full": "anyb-ppt-07.jpg",
+        "orig_w": 5120,
+        "orig_h": 2880,
+        "thumb_kb": 47,
+        "full_kb": 257
+      },
+      {
+        "seq": "08",
+        "src": "东台黄海森林公园研学基地_08.png",
+        "thumb": "anyb-ppt-08.webp",
+        "full": "anyb-ppt-08.jpg",
+        "orig_w": 5120,
+        "orig_h": 2880,
+        "thumb_kb": 56,
+        "full_kb": 273
+      },
+      {
+        "seq": "09",
+        "src": "东台黄海森林公园研学基地_09.png",
+        "thumb": "anyb-ppt-09.webp",
+        "full": "anyb-ppt-09.jpg",
+        "orig_w": 5120,
+        "orig_h": 2880,
+        "thumb_kb": 66,
+        "full_kb": 308
+      },
+      {
+        "seq": "10",
+        "src": "东台黄海森林公园研学基地_10.png",
+        "thumb": "anyb-ppt-10.webp",
+        "full": "anyb-ppt-10.jpg",
+        "orig_w": 5120,
+        "orig_h": 2880,
+        "thumb_kb": 49,
+        "full_kb": 226
+      },
+      {
+        "seq": "11",
+        "src": "梦回井冈山情景剧_01.png",
+        "thumb": "anyb-ppt-11.webp",
+        "full": "anyb-ppt-11.jpg",
+        "orig_w": 3840,
+        "orig_h": 2160,
+        "thumb_kb": 50,
+        "full_kb": 261
+      },
+      {
+        "seq": "12",
+        "src": "梦回井冈山情景剧_02.png",
+        "thumb": "anyb-ppt-12.webp",
+        "full": "anyb-ppt-12.jpg",
+        "orig_w": 3840,
+        "orig_h": 2160,
+        "thumb_kb": 43,
+        "full_kb": 266
+      },
+      {
+        "seq": "13",
+        "src": "梦回井冈山情景剧_03.png",
+        "thumb": "anyb-ppt-13.webp",
+        "full": "anyb-ppt-13.jpg",
+        "orig_w": 3840,
+        "orig_h": 2160,
+        "thumb_kb": 39,
+        "full_kb": 249
+      },
+      {
+        "seq": "14",
+        "src": "梦回井冈山情景剧_04.png",
+        "thumb": "anyb-ppt-14.webp",
+        "full": "anyb-ppt-14.jpg",
+        "orig_w": 3840,
+        "orig_h": 2160,
+        "thumb_kb": 39,
+        "full_kb": 212
+      },
+      {
+        "seq": "15",
+        "src": "梦回井冈山情景剧_05.png",
+        "thumb": "anyb-ppt-15.webp",
+        "full": "anyb-ppt-15.jpg",
+        "orig_w": 3840,
+        "orig_h": 2160,
+        "thumb_kb": 66,
+        "full_kb": 316
+      }
+    ]
+  }
+}
